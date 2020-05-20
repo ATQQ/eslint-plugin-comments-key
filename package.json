@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-comments-key",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "检查注释中是否包含指定关键词的插件",
   "repository": {
     "url": "https://github.com/ATQQ/eslint-plugin-comments-key",

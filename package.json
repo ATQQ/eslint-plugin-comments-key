@@ -1,0 +1,25 @@
+{
+  "name": "eslint-plugin-comments-key",
+  "version": "1.0.0",
+  "description": "检查注释中是否包含指定关键词的插件",
+  "repository": {
+    "url": "https://github.com/ATQQ/eslint-plugin-comments-key",
+    "directory": "/",
+    "type": "git"
+  },
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/lib/rules"
+  },
+  "keywords": ["eslint","eslint-plugin","comments-key"],
+  "author": "sugar",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "mocha": "^7.1.2"
+  }
+}

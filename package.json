@@ -20,6 +20,6 @@
   "license": "MIT",
   "devDependencies": {
     "eslint": "^7.0.0",
-    "mocha": "^7.1.2"
+    "mocha": "^10.2.0"
   }
 }
